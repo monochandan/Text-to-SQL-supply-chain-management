@@ -1,1 +1,1 @@
-![](https://img.shields.io/badge/https%3A%2F%2Fwww.python.org%2F)
+[![Python 3.12.6](https://img.shields.io/badge/Python-3.12.6-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
