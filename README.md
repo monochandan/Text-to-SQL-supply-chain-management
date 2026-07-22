@@ -2,4 +2,4 @@
 
 [![vite frontend tooling](https://img.shields.io/badge/Vite-3776AB?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
 
-[![fastAPI backend](https://img.shields.io/badge/fastapi-3776AB?style=for-the-badge&logo=vite&logoColor=white)](https://fastapi.tiangolo.com/)
+[![fastAPI backend](https://img.shields.io/badge/FastAPI-3776AB?style=for-the-badge&logo=vite&logoColor=white)](https://fastapi.tiangolo.com/)
