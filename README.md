@@ -6,4 +6,4 @@
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-24b2bf?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-[![Google](https://img.shields.io/badge/Google-gemini-e3884f?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev)
+[![Google](https://img.shields.io/badge/Google-gemini-3636cf?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev)
