@@ -1,10 +1,15 @@
-## Text-to-SQL generator for supply chain management database
-This is a web app that converts user natural language questions into SQL queries over a supply chain database. 
+## Text-to-SQL generator for a supply chain management database
+This is a web app that converts users' natural-language questions into SQL queries against a supply chain database. 
 I have used LLM prompt engineering and built it with React, FastAPI, and PostgreSQL.
 
 
 
 https://github.com/user-attachments/assets/610ccb94-d688-47ad-a4c5-bd78b2eb5f91
+
+
+## Tables
+
+<img width="388" height="210" alt="Image" src="https://github.com/user-attachments/assets/33489847-e382-4b31-95cd-7246f0d0ff76" />
 
 
 
@@ -18,3 +23,9 @@ https://github.com/user-attachments/assets/610ccb94-d688-47ad-a4c5-bd78b2eb5f91
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-24b2bf?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 [![Google](https://img.shields.io/badge/Google-gemini-3636cf?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev)
+
+## Future work
+
+1. Fine-tune small open-source models.
+2. Support conversational follow-up interactions and visualization report-making features.
+3. Also, Enable voice message support.
