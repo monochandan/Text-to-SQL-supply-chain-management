@@ -4,4 +4,4 @@
 
 [![fastAPI backend](https://img.shields.io/badge/FastAPI-3776AB?style=for-the-badge&logo=vite&logoColor=white)](https://fastapi.tiangolo.com/)
 
-[![postgress database](https://img.shields.io/badge/FastAPI-3776AB?style=for-the-badge&logo=vite&logoColor=white)](https://www.postgresql.org/)
+[![postgress database](https://img.shields.io/badge/postgress-3776AB?style=for-the-badge&logo=vite&logoColor=white)](https://www.postgresql.org/)
