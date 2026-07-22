@@ -1,1 +1,1 @@
-![](https://img.shields.io/badge/[any_text-you_like-blue](https://www.python.org/))
+![](https://img.shields.io/badge/https://www.python.org/)
