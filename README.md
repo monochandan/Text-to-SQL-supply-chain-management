@@ -1,6 +1,6 @@
 [![Python 3.12.6](https://img.shields.io/badge/Python-3.12.6-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-[![Vite](https://img.shields.io/badge/Vite-Frontend-3776AB?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
+[![Vite](https://img.shields.io/badge/Vite-Frontend-orange?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-Backend-3776AB?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
