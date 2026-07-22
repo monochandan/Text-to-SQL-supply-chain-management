@@ -18,6 +18,8 @@ https://github.com/user-attachments/assets/610ccb94-d688-47ad-a4c5-bd78b2eb5f91
 
 [![Vite](https://img.shields.io/badge/Vite-Frontend-orange?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
 
+[![javascript](https://img.shields.io/badge/JavaScript-ded416?style=for-the-badge&logo=JavaScript&logoColor=white)]([https://vite.dev/](https://developer.mozilla.org/de/docs/Web/JavaScript))
+
 [![FastAPI](https://img.shields.io/badge/FastAPI-Backend-24bf2c?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-24b2bf?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
