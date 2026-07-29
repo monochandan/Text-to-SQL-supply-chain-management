@@ -23,7 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 
-**/.env
+backend/.env
 
 Supply-Chain-Managment-Database/*
 !Supply-Chain-Managment-Database/
